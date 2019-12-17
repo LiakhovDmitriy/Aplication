@@ -19,7 +19,7 @@
     }
     table {
         align-content: center;
-        width: 1000px;
+        width: 100%;
     }
     td {
         text-align: center; /* Выравниваем текст по центру ячейки */
