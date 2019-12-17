@@ -12,3 +12,9 @@ Description
 Логін: Valik<br>
 Пароль: 4321<br>
 
+![screenshot of sample](https://github.com/LiakhovDmitriy/Aplication/blob/master/Login.jpg)
+
+<br>
+
+Після авторизації зі статусом ADMIN, можно побачить таблицю з даними користувачів, та їх відповідями за формою.
+Після авторизації зі статусом USER, йде перехід на форму, після її заповнення дані зберігаються в базі.
