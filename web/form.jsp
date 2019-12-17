@@ -11,6 +11,12 @@
     <title>Form</title>
 </head>
 <body>
+<style>
+    table {
+        align-content: center;
+        width: 100%;
+    }
+</style>
 <table>
     <tr><th>
         <br><br><br><br><br><br><br><br><br><br><br><br>
