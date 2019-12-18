@@ -12,9 +12,17 @@
 </head>
 <body>
 <style>
+
+    body{
+        background: url("Pattern.png");
+
+    }
     table {
         align-content: center;
         width: 100%;
+    }
+    td {
+        text-align: center; /* Выравниваем текст по центру ячейки */
     }
 </style>
 <table>

@@ -12,10 +12,10 @@ public class ServletForm extends HttpServlet {
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String userage = request.getParameter("userage");
-        String gender = request.getParameter("userage");
-        String courses = request.getParameter("userage");
-        String idea = request.getParameter("userage");
-        String side = request.getParameter("userage");
+        String gender = request.getParameter("gender");
+        String courses = request.getParameter("course");
+        String idea = request.getParameter("idea");
+        String side = request.getParameter("side");
 
     }
 
